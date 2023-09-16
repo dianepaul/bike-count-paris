@@ -1,1 +1,1 @@
-# bike-count-paris
+# image-to-latex
