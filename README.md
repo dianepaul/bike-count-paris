@@ -62,7 +62,7 @@ https://www.kaggle.com/datasets/mabusalah/brent-oil-prices?resource=download
 
 #### Results
 
-![Alt Text](data-visualization-tool/Results.png)
+![Alt Text](Results.png)
 
 ## Contributing
 
