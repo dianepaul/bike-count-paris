@@ -29,6 +29,22 @@ streamlit run app.py
 
 The app will launch in your default web browser, and you can start using it.
 
+### OR
+
+1. Build a Docker image
+
+```bash
+docker build -t image_name .
+```
+
+2. Run the image:
+
+```bash
+docker run -p 8503:8503 image_name
+```
+
+3. type http://0.0.0.0:8503 or http://localhost:8503 in your browser to start using the app!
+
 ## Usage
 
 ### File Upload
